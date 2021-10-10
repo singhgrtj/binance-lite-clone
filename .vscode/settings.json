@@ -14,7 +14,7 @@
         "**/.git/subtree-cache/**": true,
         "**/node_modules/*/**": true
     },
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "editor.formatOnPaste": true,
     "editor.formatOnType": true,
     "editor.renderWhitespace": "all",

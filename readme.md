@@ -3,17 +3,11 @@ Also incorporates dark mode.
 
 ### About the project
 
-![HomeLight](./assets/app-screen.jpg)
-
-![HomeDark](./assets/app-screen2.jpg)
-
-![SearchLight](./assets/app-screen3.jpg)
-
-![SearchDark](./assets/app-screen4.jpg)
-
-![WalletLight](./assets/app-screen6.jpg)
-
-![WalletDark](./assets/app-screen5.jpg)
+|                                  Light theme                                  |                                  Dark Theme                                   |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| <img src="./assets/app-screen.jpg" alt="homelight" width="200" height="500">  | <img src="./assets/app-screen2.jpg" alt="homelight" width="200" height="500"> |
+| <img src="./assets/app-screen3.jpg" alt="homelight" width="200" height="500"> | <img src="./assets/app-screen4.jpg" alt="homelight" width="200" height="500"> |
+| <img src="./assets/app-screen6.jpg" alt="homelight" width="200" height="500"> | <img src="./assets/app-screen5.jpg" alt="homelight" width="200" height="500"> |
 
 ### Built with
 
