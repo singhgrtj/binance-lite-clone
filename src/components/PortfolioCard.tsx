@@ -1,9 +1,8 @@
 // Component import
 import React, { useState } from 'react'
-import { View, ScrollView, Image, TouchableOpacity } from 'react-native';
-import Text from './Text';
+import { View, ScrollView, Image, TouchableOpacity, Text } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import Crypto from '../components/Crypto';
+import Crypto from './Crypto';
 
 // Style and constants import
 import tw from 'tailwind-react-native-classnames';
@@ -15,7 +14,7 @@ interface Props {}
 
 const Portfolio: React.FC<Props> = (props) => {
     const { } = props;
-    const [data, setData] = useState<any>([1, 2, 3, 4]);
+    const [data, setData] = useState<any>([1, 2, 3]);
     const { colors } = useTheme();
 
     return (

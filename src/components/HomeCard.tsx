@@ -1,7 +1,6 @@
 // Component import
 import React, { useState, useEffect } from 'react';
-import { View, TouchableOpacity, FlatList, ActivityIndicator } from 'react-native';
-import Text from './Text';
+import { View, TouchableOpacity, FlatList, ActivityIndicator, Text } from 'react-native';
 import Crypto from './Crypto';
 import { Ionicons } from '@expo/vector-icons';
 

@@ -1,7 +1,6 @@
 // Component import
 import React from 'react';
-import { View } from 'react-native';
-import Text from '../components/Text';
+import { View, Text } from 'react-native';
 
 // Style and constants import
 import tw from 'tailwind-react-native-classnames';

@@ -1,8 +1,7 @@
 // Component import
 import React, { useEffect } from 'react';
 import { Ionicons } from '@expo/vector-icons';
-import { View, StatusBar } from 'react-native';
-import Text from '../components/Text';
+import { View, StatusBar, Text } from 'react-native';
 
 // Style and constants import
 import tw from 'tailwind-react-native-classnames';

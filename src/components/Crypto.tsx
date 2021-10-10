@@ -1,7 +1,7 @@
 // Component import
 import React from 'react';
-import { TouchableOpacity, View, Image } from 'react-native';
-import Text from './Text';
+import { TouchableOpacity, View, Image, Text } from 'react-native';
+
 
 // Style and constants import
 import tw from 'tailwind-react-native-classnames';

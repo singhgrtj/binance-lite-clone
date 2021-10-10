@@ -1,7 +1,7 @@
 // Component import
 import React from 'react';
 import { SafeAreaView, Text, StatusBar, Platform } from 'react-native';
-import Portfolio from '../components/Portfolio';
+import PortfolioCard from '../components/PortfolioCard';
 
 // Style and constants import
 import tw from 'tailwind-react-native-classnames';
@@ -19,7 +19,7 @@ const Wallet: React.FC<Props> = (props) => {
     return (
         <SafeAreaView style={[tw`flex h-full`, { marginTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,  backgroundColor: colors.primary }]}>
             <Header title="Portfolio" portfolio={true}/>
-            <Portfolio />
+            <PortfolioCard />
         </SafeAreaView>
     );
 }
