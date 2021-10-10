@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux';
 import { ApplicationState } from '../store';
 
-
+// hook for theme colors
 const useTheme = () => {
     const { theme } = useSelector((state: ApplicationState) => state.theme);
     

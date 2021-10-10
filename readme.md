@@ -3,11 +3,11 @@ Also incorporates dark mode.
 
 ### About the project
 
-|                                  Light theme                                  |                                  Dark Theme                                   |
-| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="./assets/app-screen.jpg" alt="homelight" width="300" height="500">  | <img src="./assets/app-screen2.jpg" alt="homelight" width="300" height="500"> |
-| <img src="./assets/app-screen3.jpg" alt="homelight" width="300" height="500"> | <img src="./assets/app-screen4.jpg" alt="homelight" width="300" height="500"> |
-| <img src="./assets/app-screen6.jpg" alt="homelight" width="300" height="500"> | <img src="./assets/app-screen5.jpg" alt="homelight" width="300" height="500"> |
+Light theme                                                                   |  Dark Theme
+:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------:
+<img src="./assets/app-screen.jpg" alt="homelight" width="250" height="500">  | <img src="./assets/app-screen2.jpg" alt="homelight" width="250" height="500">
+<img src="./assets/app-screen3.jpg" alt="homelight" width="250" height="500"> | <img src="./assets/app-screen4.jpg" alt="homelight" width="250" height="500">
+<img src="./assets/app-screen6.jpg" alt="homelight" width="250" height="500"> | <img src="./assets/app-screen5.jpg" alt="homelight" width="250" height="500">
 
 ### Built with
 
