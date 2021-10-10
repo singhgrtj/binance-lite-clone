@@ -5,9 +5,9 @@ Also incorporates dark mode.
 
 |                                  Light theme                                  |                                  Dark Theme                                   |
 | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="./assets/app-screen.jpg" alt="homelight" width="200" height="500">  | <img src="./assets/app-screen2.jpg" alt="homelight" width="200" height="500"> |
-| <img src="./assets/app-screen3.jpg" alt="homelight" width="200" height="500"> | <img src="./assets/app-screen4.jpg" alt="homelight" width="200" height="500"> |
-| <img src="./assets/app-screen6.jpg" alt="homelight" width="200" height="500"> | <img src="./assets/app-screen5.jpg" alt="homelight" width="200" height="500"> |
+| <img src="./assets/app-screen.jpg" alt="homelight" width="300" height="500">  | <img src="./assets/app-screen2.jpg" alt="homelight" width="300" height="500"> |
+| <img src="./assets/app-screen3.jpg" alt="homelight" width="300" height="500"> | <img src="./assets/app-screen4.jpg" alt="homelight" width="300" height="500"> |
+| <img src="./assets/app-screen6.jpg" alt="homelight" width="300" height="500"> | <img src="./assets/app-screen5.jpg" alt="homelight" width="300" height="500"> |
 
 ### Built with
 
